@@ -16,6 +16,7 @@ import javax.persistence.Table;
 @Table(name = "database1")
 public class Database1 implements Serializable {
 
+	
 	/**
 	 * 
 	 */
